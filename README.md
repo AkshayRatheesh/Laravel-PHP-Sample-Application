@@ -18,7 +18,7 @@ Once all the requirements are installed, you can clone the repository, install t
 
 To get started, simply clone the repository and install the dependencies:
 
-`git clone https://github.com/username/laravel-php-sample-application.git` <br>
+`git clone https://github.com/AkshayRatheesh/Laravel-PHP-Sample-Application.git` <br>
 `cd laravel-php-sample-application` <br>
 `composer install`
 
